@@ -3,7 +3,7 @@
   <h3 align="center">C++ Maze Solver</h3>
   
 
-[![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=3F78A9&logo=cplusplus)](https://www.cplusplus.com)
+[![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=3F78A9&logo=cplusplus)](https://isocpp.org)
   
 A C++ program that takes a maze file as an input and produces a solution using breadth-first search or depth-first search
 </div>
